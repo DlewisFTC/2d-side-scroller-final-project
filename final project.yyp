@@ -35,6 +35,8 @@
   },
   "name":"final project",
   "resources":[
+    {"id":{"name":"coin","path":"objects/coin/coin.yy",},},
+    {"id":{"name":"player_object","path":"objects/player_object/player_object.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
